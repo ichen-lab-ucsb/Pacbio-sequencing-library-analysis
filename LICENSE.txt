@@ -1,0 +1,7 @@
+Pacbio sequencing data analysis on recombinant bacteriophage libraries designed for targeting gram-negative bacteria © 2024 by Chenlab UCLA is licensed under CC BY-NC-ND 4.0 
+
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License
+
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+
+To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.
