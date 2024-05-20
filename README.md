@@ -12,6 +12,7 @@ Follow flow chart for steps of process. With modifications, this code can be gen
 
 **Flow chart key:**
 * Files are numbered 1,2,3…
+     * Currently files are omitted until the larger project this is a part of is published.
 * Code numbered Code13_, Code14_, …
 * Color key:
     * Yellow: .fasta file
